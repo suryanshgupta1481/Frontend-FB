@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My CV</title>
+</head>
+<body style="font-family: Arial, sans-serif; margin: 20px;">
+
+  <!-- Header -->
+  <h1 style="color: rgb(118, 139, 0);">suryansh gupta</h1>
+  <h3 style="color: gray;">Aspiring Front-End Developer</h3>
+  <img src="https://i0.wp.com/picjumbo.com/wp-content/uploads/beautiful-fall-nature-scenery-free-image.jpeg?w=600&quality=80" alt="profile picture" width=" 150" style="border-radius: 50%;border: 2px solid #000;">
+  <!-- Contact Info -->
+  <h2>Contact</h2>
+  <ul>
+    <li>Email: suryansh.gupta9988@gmail.com</li>
+    <li>Phone: +91 8707895865</li>
+    
+  </ul>
+
+  <!-- About Me -->
+  <h2>About Me</h2>
+  <p>Hello! My name is <b>suryansh gupta</b>. I am passionate about <i>front-end development</i> and love building 
+     <u>clean, user-friendly</u> web interfaces.</p>
+
+  <!-- Education -->
+  <h2>Education</h2>
+  <table style="border:1px solid black; border-collapse:collapse; width:80%;">
+    <tr>
+      <th style="border:1px solid black; padding:8px;">Year</th>
+      <th style="border:1px solid black; padding:8px;">Degree</th>
+      <th style="border:1px solid black; padding:8px;">Institute</th>
+    </tr>
+    <tr>
+      <td style="border:1px solid black; padding:8px;">2028</td>
+      <td style="border:1px solid black; padding:8px;">b.tech in Computer Science</td>
+      <td style="border:1px solid black; padding:8px;">GLA University</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid black; padding:8px;">2020</td>
+      <td style="border:1px solid black; padding:8px;">High School</td>
+      <td style="border:1px solid black; padding:8px;">asha public School</td>
+    </tr>
+  </table>
+
+  <!-- Skills -->
+  <h2>Skills</h2>
+  <ul>
+    <li>HTML5 & CSS3</li>
+    <li>JavaScript</li>
+    <li>React</li>
+    <li>Git & GitHub</li>
+  </ul>
+
+
+
+  <!-- Hobbies -->
+  <h2>Hobbies</h2>
+  <ul>
+    <li> ✨Reading Books</li>
+    <li> 🧨Listening to Music</li>
+    <li> 🎯Gaming</li>
+    <li> 📌playing cricket</li>
+  </ul>
+
+  <!-- Footer -->
+  <footer style="margin-top:20px; text-align:center; font-size:14px;">
+    <p>&copy; 2025 suryansh gupta All Rights Reserved.</p>
+  </footer>
+
+</body>
+</html>
